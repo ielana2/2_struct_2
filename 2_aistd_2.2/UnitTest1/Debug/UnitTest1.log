@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(31,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(85,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(191,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\UnitTest1\UnitTest1.cpp(23,25): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\Visual Studio\2_aistd_2.2\Debug\UnitTest1.lib и объект D:\Visual Studio\2_aistd_2.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio\2_aistd_2.2\Debug\UnitTest1.dll
