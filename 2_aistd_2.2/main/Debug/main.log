@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(31,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(85,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\Huffman.h(191,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\main.cpp(29,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\2_aistd_2.2\main\main.cpp(39,26): warning C4018: <: несоответствие типов со знаком и без знака
+  PriorityQueue.cpp
+  Stack.cpp
+  Создание кода...
+  main.vcxproj -> D:\Visual Studio\2_aistd_2.2\Debug\main.exe
